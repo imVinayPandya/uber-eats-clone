@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Uber eats clone",
+    "slug": "uberEatsClone",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.ubereats.clone"
+    }
+  }
+}
